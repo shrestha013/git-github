@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 There is new change in this file. ###
+=======
+This is test file !!!
+>>>>>>> develop
