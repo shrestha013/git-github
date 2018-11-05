@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 File has been updated. 
 
 File has been verified.
+=======
+File has been updated. 
+
+File has been verified.
+>>>>>>> 203846f392055c52fcb23bbb2e5e35e4397264a3
